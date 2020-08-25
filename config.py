@@ -1,0 +1,3 @@
+BOT_TOKEN = ""
+BOT_DB_FILENAME = ""
+BOT_ADMIN_ID = 
